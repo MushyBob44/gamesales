@@ -40,7 +40,7 @@
         "name": "Zelda: Tears of the Kingdom",
         "brand": "Nintendo",
         "price": "$59",
-        "inStock": false,
+        "inStock": true,
         "retailer": "Amazon",
         "buyURL": "https://www.amazon.com/zelda-tears"
     }
