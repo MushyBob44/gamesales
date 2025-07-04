@@ -4,7 +4,7 @@
         "name": "PlayStation 5",
         "brand": "Sony",
         "price": "$499",
-        "inStock": true,
+        "inStock": false,
         "retailer": "Best Buy",
         "buyURL": "https://www.bestbuy.com/site/playstation-5"
     },
