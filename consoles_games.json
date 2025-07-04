@@ -1,0 +1,47 @@
+[
+    {
+        "id": "ps5",
+        "name": "PlayStation 5",
+        "brand": "Sony",
+        "price": "$499",
+        "inStock": true,
+        "retailer": "Best Buy",
+        "buyURL": "https://www.bestbuy.com/site/playstation-5"
+    },
+    {
+        "id": "xbox_series_x",
+        "name": "Xbox Series X",
+        "brand": "Microsoft",
+        "price": "$449",
+        "inStock": false,
+        "retailer": "Walmart",
+        "buyURL": "https://www.walmart.com/ip/xbox-series-x"
+    },
+    {
+        "id": "switch_oled",
+        "name": "Nintendo Switch OLED",
+        "brand": "Nintendo",
+        "price": "$349",
+        "inStock": true,
+        "retailer": "Target",
+        "buyURL": "https://www.target.com/p/nintendo-switch"
+    },
+    {
+        "id": "spiderman2",
+        "name": "Spider-Man 2 (PS5)",
+        "brand": "Sony",
+        "price": "$69",
+        "inStock": true,
+        "retailer": "Amazon",
+        "buyURL": "https://www.amazon.com/spiderman-2-ps5"
+    },
+    {
+        "id": "zelda_totk",
+        "name": "Zelda: Tears of the Kingdom",
+        "brand": "Nintendo",
+        "price": "$59",
+        "inStock": false,
+        "retailer": "Amazon",
+        "buyURL": "https://www.amazon.com/zelda-tears"
+    }
+]
