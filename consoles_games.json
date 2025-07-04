@@ -4,7 +4,7 @@
         "name": "PlayStation 5",
         "brand": "Sony",
         "price": "$499",
-        "inStock": false,
+        "inStock": true,
         "retailer": "Best Buy",
         "buyURL": "https://www.bestbuy.com/site/playstation-5"
     },
@@ -21,7 +21,7 @@
         "id": "switch_oled",
         "name": "Nintendo Switch OLED",
         "brand": "Nintendo",
-        "price": "$10000000000",
+        "price": "$1",
         "inStock": true,
         "retailer": "Target",
         "buyURL": "https://www.target.com/p/nintendo-switch"
