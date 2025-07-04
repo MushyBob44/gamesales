@@ -13,7 +13,7 @@
         "name": "Xbox Series X",
         "brand": "Microsoft",
         "price": "$449",
-        "inStock": false,
+        "inStock": true,
         "retailer": "Walmart",
         "buyURL": "https://www.walmart.com/ip/xbox-series-x"
     },
