@@ -2,7 +2,7 @@
     {
         "id": "ns2",
         "name": "Nintendo Switch 2",
-        "brand": "Nintendo",
+        "brand": "Switch 2",
         "price": "$500",
         "inStock": true,
         "retailers": [
@@ -15,7 +15,7 @@
     {
         "id": "ps5",
         "name": "PlayStation 5",
-        "brand": "Sony",
+        "brand": "PS5",
         "price": "$1000",
         "inStock": true,
         "retailers": [
@@ -31,8 +31,8 @@
     },
     {
         "id": "xbox_series_x",
-        "name": "Xbox Series X",
-        "brand": "Microsoft",
+        "name": "Series X",
+        "brand": "Xbox",
         "price": "$449",
         "inStock": true,
         "retailers": [
@@ -66,7 +66,7 @@
     {
         "id": "zelda_totk",
         "name": "Zelda: Tears of the Kingdom",
-        "brand": "Nintendo Switch",
+        "brand": "Switch",
         "price": "$59",
         "inStock": true,
         "retailers": [
@@ -77,6 +77,149 @@
             {
                 "name": "Nintendo Store",
                 "url": "https://store.nintendo.com/zelda-totk"
+            }
+        ]
+    },
+    {
+        "id": "mario_wonder",
+        "name": "Super Mario Bros. Wonder",
+        "brand": "Switch",
+        "price": "$59",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Nintendo Store",
+                "url": "https://store.nintendo.com/smb-wonder"
+            }
+        ]
+    },
+    {
+        "id": "god_of_war_ragnarok",
+        "name": "God of War: Ragnarok",
+        "brand": "PS5",
+        "price": "$69",
+        "inStock": false,
+        "retailers": [
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/god-of-war-ragnarok"
+            }
+        ]
+    },
+    {
+        "id": "xbox_series_s",
+        "name": "Series S",
+        "brand": "Xbox",
+        "price": "$299",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Microsoft Store",
+                "url": "https://www.microsoft.com/xbox-series-s"
+            }
+        ]
+    },
+    {
+        "id": "mario_kart_8",
+        "name": "Mario Kart 8 Deluxe",
+        "brand": "Switch",
+        "price": "$59",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Best Buy",
+                "url": "https://www.bestbuy.com/mario-kart-8"
+            }
+        ]
+    },
+    {
+        "id": "last_of_us_pt1",
+        "name": "The Last of Us Part I",
+        "brand": "PS5",
+        "price": "$69",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "PlayStation Store",
+                "url": "https://store.playstation.com/last-of-us-pt1"
+            }
+        ]
+    },
+    {
+        "id": "halo_infinite",
+        "name": "Halo Infinite",
+        "brand": "Xbox",
+        "price": "$59",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Microsoft Store",
+                "url": "https://www.microsoft.com/halo-infinite"
+            }
+        ]
+    },
+    {
+        "id": "metroid_dread",
+        "name": "Metroid Dread",
+        "brand": "Switch",
+        "price": "$59",
+        "inStock": false,
+        "retailers": [
+            {
+                "name": "GameStop",
+                "url": "https://www.gamestop.com/metroid-dread"
+            }
+        ]
+    },
+    {
+        "id": "horizon_fw",
+        "name": "Horizon Forbidden West",
+        "brand": "PS5",
+        "price": "$69",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/horizon-forbidden-west"
+            }
+        ]
+    },
+    {
+        "id": "forza_motorsport",
+        "name": "Forza Motorsport",
+        "brand": "Xbox",
+        "price": "$69",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Walmart",
+                "url": "https://www.walmart.com/forza-motorsport"
+            }
+        ]
+    },
+    {
+        "id": "switch_oled",
+        "name": "Nintendo Switch OLED",
+        "brand": "Switch",
+        "price": "$349",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Target",
+                "url": "https://www.target.com/nintendo-switch-oled"
+            }
+        ]
+    },
+    {
+        "id": "ps5_slim",
+        "name": "PlayStation 5 Slim",
+        "brand": "PS5",
+        "price": "$499",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Sony Store",
+                "url": "https://www.playstation.com/ps5-slim"
             }
         ]
     }
