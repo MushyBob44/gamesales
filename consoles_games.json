@@ -16,7 +16,7 @@
         "id": "ps5",
         "name": "PlayStation 5",
         "brand": "PS5",
-        "price": "$1000",
+        "price": "$500",
         "inStock": true,
         "retailers": [
             {
@@ -187,7 +187,7 @@
     {
         "id": "forza_motorsport",
         "name": "Forza Motorsport",
-        "brand": "Xbox",
+        "brand": "Xbox One",
         "price": "$69",
         "inStock": true,
         "retailers": [
