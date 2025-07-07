@@ -1,12 +1,33 @@
 [
     {
+        "id": "ns2",
+        "name": "Nintendo Switch 2",
+        "brand": "Nintendo",
+        "price": "$500",
+        "inStock": true,
+        "retailers": [
+            {
+                "name": "Best Buy",
+                "url": "https://www.bestbuy.com/site/playstation-5"
+            }
+        ]
+    },
+    {
         "id": "ps5",
         "name": "PlayStation 5",
         "brand": "Sony",
         "price": "$1000",
         "inStock": true,
-        "retailer": "Best Buy",
-        "buyURL": "https://www.bestbuy.com/site/playstation-5"
+        "retailers": [
+            {
+                "name": "Best Buy",
+                "url": "https://www.bestbuy.com/site/playstation-5"
+            },
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/playstation-5"
+            }
+        ]
     },
     {
         "id": "xbox_series_x",
@@ -14,34 +35,49 @@
         "brand": "Microsoft",
         "price": "$449",
         "inStock": true,
-        "retailer": "Walmart",
-        "buyURL": "https://www.walmart.com/ip/xbox-series-x"
-    },
-    {
-        "id": "switch_oled",
-        "name": "Nintendo Switch OLED",
-        "brand": "Nintendo",
-        "price": "$1",
-        "inStock": true,
-        "retailer": "Target",
-        "buyURL": "https://www.target.com/p/nintendo-switch"
+        "retailers": [
+            {
+                "name": "Walmart",
+                "url": "https://www.walmart.com/ip/xbox-series-x"
+            },
+            {
+                "name": "Target",
+                "url": "https://www.target.com/p/xbox-series-x"
+            }
+        ]
     },
     {
         "id": "spiderman2",
         "name": "Spider-Man 2 (PS5)",
-        "brand": "Sony",
+        "brand": "PS5",
         "price": "$69",
         "inStock": true,
-        "retailer": "Amazon",
-        "buyURL": "https://www.amazon.com/spiderman-2-ps5"
+        "retailers": [
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/spiderman-2-ps5"
+            },
+            {
+                "name": "GameStop",
+                "url": "https://www.gamestop.com/spiderman-2"
+            }
+        ]
     },
     {
         "id": "zelda_totk",
         "name": "Zelda: Tears of the Kingdom",
-        "brand": "Nintendo",
+        "brand": "Nintendo Switch",
         "price": "$59",
         "inStock": true,
-        "retailer": "Amazon",
-        "buyURL": "https://www.amazon.com/zelda-tears"
+        "retailers": [
+            {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/zelda-tears"
+            },
+            {
+                "name": "Nintendo Store",
+                "url": "https://store.nintendo.com/zelda-totk"
+            }
+        ]
     }
 ]
