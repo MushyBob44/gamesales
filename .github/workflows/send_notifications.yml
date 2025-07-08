@@ -1,0 +1,29 @@
+name: Send Push Notifications
+
+on:
+  push:
+    paths:
+      - 'notifications.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install apn
+
+      - name: Send Notifications
+        run: node send_notifications.js
+        env:
+          APNS_KEY: ${{ secrets.APNS_KEY }}
+          APNS_KEY_ID: ${{ secrets.APNS_KEY_ID }}
+          APNS_TEAM_ID: ${{ secrets.APNS_TEAM_ID }}
+          APNS_BUNDLE_ID: ${{ secrets.APNS_BUNDLE_ID }}
