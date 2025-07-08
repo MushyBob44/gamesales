@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ps5-sale-july",
+    "title": "PS5 Price Drop!",
+    "body": "The PS5 is now $449 at Best Buy.",
+    "type": "sale",
+    "timestamp": "2025-07-08T12:00:00Z"
+  },
+  {
+    "id": "switch-restock",
+    "title": "Switch OLED Restocked",
+    "body": "The Nintendo Switch OLED is back at Target!",
+    "type": "restock",
+    "timestamp": "2025-07-08T12:30:00Z"
+  }
+]
