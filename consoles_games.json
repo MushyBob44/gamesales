@@ -67,7 +67,7 @@
         "id": "zelda_totk",
         "name": "Zelda: Tears of the Kingdom",
         "brand": "Switch",
-        "price": "$59",
+        "price": "$39",
         "inStock": true,
         "retailers": [
             {
@@ -98,7 +98,7 @@
         "name": "God of War: Ragnarok",
         "brand": "PS5",
         "price": "$69",
-        "inStock": false,
+        "inStock": true,
         "retailers": [
             {
                 "name": "Amazon",
