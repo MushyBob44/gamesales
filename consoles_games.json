@@ -7,8 +7,24 @@
         "inStock": true,
         "retailers": [
             {
-                "name": "Best Buy",
+                "name": "My Nintendo Store",
                 "url": "https://www.bestbuy.com/site/playstation-5"
+            },
+            {
+                "name": "Best Buy",
+                "url": "https://www.amazon.com/playstation-5"
+            },
+            {
+                "name": "Target",
+                "url": "https://www.amazon.com/playstation-5"
+            },
+            {
+                "name": "Walmart",
+                "url": "https://www.amazon.com/playstation-5"
+            },
+            {
+                "name": "GameStop",
+                "url": "https://www.amazon.com/playstation-5"
             }
         ]
     },
