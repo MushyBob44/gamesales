@@ -69,6 +69,7 @@
         "brand": "Switch",
         "price": "$39",
         "inStock": true,
+        "onSale": true,
         "retailers": [
             {
                 "name": "Amazon",
