@@ -8,23 +8,23 @@
         "retailers": [
             {
                 "name": "My Nintendo Store",
-                "url": "https://www.bestbuy.com/site/playstation-5"
+                "url": "https://www.nintendo.com/us/retail-offers/#switch2"
             },
             {
                 "name": "GameStop",
-                "url": "https://www.amazon.com/playstation-5"
+                "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch/consoles/products/nintendo-switch-2/424543.html"
             },
             {
                 "name": "Best Buy",
-                "url": "https://www.amazon.com/playstation-5"
+                "url": "https://www.bestbuy.com/site/switch-2-system-nintendo-switch-2/6614313.p?skuId=6614313"
             },
             {
                 "name": "Walmart",
-                "url": "https://www.amazon.com/playstation-5"
+                "url": "https://www.walmart.com/ip/Nintendo-Switch-2-System/15949610846?classType=REGULAR&athbdg=L1103&from=/search"
             },
             {
                 "name": "Target",
-                "url": "https://www.amazon.com/playstation-5"
+                "url": "https://www.target.com/p/nintendo-switch-2-console/-/A-94693225#lnk=sametab"
             }
         ]
     },
