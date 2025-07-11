@@ -121,12 +121,12 @@
     "id": "switch_oled",
     "name": "Nintendo Switch OLED",
     "brand": "Switch",
-    "price": "$350",
+    "price": "$349",
     "inStock": true,
     "retailers": [
       {
         "name": "Target",
-        "url": "https://www.target.com/p/nintendo-switch-oled-model-with-white-joy-con/-/A-83887639?sid=&TCID=PDS-228080329&gclsrc=aw.ds&gad_source=1&gad_campaignid=228080329&gbraid=0AAAAAD-5dfYTyZnaAhlF1XWB3CH4jKOCJ&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIWQovC7O79ris1DVwm1QlU3osGjYqXQAut2XatzzsuPZB2XL39xLJxoCrxMQAvD_BwE"
+        "url": "https://www.target.com/nintendo-switch-oled"
       }
     ]
   },
@@ -134,29 +134,30 @@
     "id": "switch_lite",
     "name": "Nintendo Switch Lite",
     "brand": "Switch",
-    "price": "$200",
+    "price": "$199",
     "inStock": true,
     "retailers": [
       {
         "name": "Target",
-        "url": "https://www.target.com/p/nintendo-switch-lite-turquoise/-/A-77419248?TCID=PDS-21617853055&gclsrc=aw.ds&gad_source=1&gad_campaignid=21617853055&gbraid=0AAAAAD-5dfbSvbF9BTvr8LEUs_U-SGOQO&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIZqJ-5U6-iDK5wvVUdZbfFp5-9LTtXmIRL3ZMMNxaOBxtq9hiLBajxoCN4IQAvD_BwE"
+        "url": "https://www.target.com/nintendo-switch-lite"
       }
     ]
   },
   {
     "id": "zelda_totk",
-    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "name": "Zelda: Tears of the Kingdom",
     "brand": "Switch",
-    "price": "$70",
+    "price": "$39",
     "inStock": true,
+    "onSale": true,
     "retailers": [
       {
-        "name": "Target",
-        "url": "https://www.target.com/p/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch/-/A-88492050?TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIWOD-0RiLIyPH86SWWsA6FHu5yZchvkZ5NEl4n2Uet6w6RolvDs7JhoCaO0QAvD_BwE"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/zelda-tears"
       },
       {
         "name": "Nintendo Store",
-        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/"
+        "url": "https://store.nintendo.com/zelda-totk"
       }
     ]
   },
@@ -164,12 +165,12 @@
     "id": "mario_wonder",
     "name": "Super Mario Bros. Wonder",
     "brand": "Switch",
-    "price": "$60",
+    "price": "$59",
     "inStock": true,
     "retailers": [
       {
-        "name": "Target",
-        "url": "https://www.target.com/p/super-mario-bros-wonder-nintendo-switch/-/A-89430348?sid=2395S&TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIU17oiTVt-Kfjm0QzKH8RgJf7r4vwcW37PVc0Wws9KMhlQNRwyZhlBoCwdUQAvD_BwE"
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/smb-wonder"
       }
     ]
   },
@@ -179,11 +180,10 @@
     "brand": "Switch",
     "price": "$59",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
-        "name": "Amazon",
-        "url": "https://www.amazon.com/Mario-Deluxe-Nintendo-Switch-Sealed-Region/dp/B071XNBL33/ref=asc_df_B071XNBL33?mcid=f65084936f3f37ad9222f80e232553b1&hvocijid=7642827528542341656-B071XNBL33-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7642827528542341656&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009968&hvtargid=pla-2281435179338&psc=1"
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/mario-kart-8"
       }
     ]
   },
