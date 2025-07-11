@@ -314,7 +314,7 @@
     "retailers": [
       {
         "name": "PlayStation Store",
-        "url": "https://www.playstation.com/en-us/games/the-last-of-us-part-i/"
+        "url": "https://store.playstation.com/en-us/concept/10003939"
       }
     ]
   },
@@ -327,7 +327,7 @@
     "retailers": [
       {
         "name": "PlayStation Store",
-        "url": "https://www.playstation.com/en-us/games/grand-theft-auto-v/"
+        "url": "https://store.playstation.com/gta-v-ps4"
       }
     ]
   },
@@ -339,8 +339,8 @@
     "inStock": true,
     "retailers": [
       {
-        "name": "Playstation Store",
-        "url": "https://www.playstation.com/en-us/games/bloodborne/"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/bloodborne-ps4"
       }
     ]
   },
@@ -350,28 +350,27 @@
     "brand": "PS4",
     "price": "$59",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
-        "name": "Target",
-        "url": "https://www.target.com/p/ea-sports-fc-24-playstation-4/-/A-89453526?sid=&TCID=PDS-209748769&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=209748769&gbraid=0AAAAAD-5dfY4VwBGMLNYNh496DzxC8s_U&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIWr_gNjc9MtpcsPV-yVQqV_4EYmG0ANeCOyBOnxJf3f8zybGADO3hRoCUzAQAvD_BwE"
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/ps4-fc-24"
       }
     ]
   },
   {
     "id": "xbox_series_x",
-    "name": "Xbox Series X - Digital",
+    "name": "Xbox Series X",
     "brand": "Series X|S",
-    "price": "$549",
+    "price": "$449",
     "inStock": true,
     "retailers": [
       {
-        "name": "Microsoft Store",
-        "url": "https://www.xbox.com/en-US/consoles/xbox-series-x"
+        "name": "Walmart",
+        "url": "https://www.walmart.com/ip/xbox-series-x"
       },
       {
-        "name": "GameStop",
-        "url": "https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-x-digital-edition-console-1tb---robot-white/415653.html?utm_medium=pmax&utm_source=google&utm_campaign=%24PMAX_%24NB_MNFR_Preowned_Hardware_Microsoft&utm_id=20628582149&gclsrc=aw.ds&gad_source=1&gad_campaignid=20628588614&gbraid=0AAAAAD5TdcRjKNun5_G2zaGq6elf9QYBV&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIXz75mqIgj7czaSspt3CrqNOkDhbF5X_oeftjcm-NYnpuPFjUSwAxhoCxCsQAvD_BwE"
+        "name": "Target",
+        "url": "https://www.target.com/p/xbox-series-x"
       }
     ]
   },
@@ -379,26 +378,25 @@
     "id": "xbox_series_s",
     "name": "Xbox Series S",
     "brand": "Series X|S",
-    "price": "$379",
+    "price": "$299",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
-        "name": "Walmart",
-        "url": "https://www.walmart.com/ip/Xbox-Series-S-512GB/11213159055?wmlspartner=wlpa&selectedSellerId=101222135&selectedOfferId=17E89272C86A34F78A032BB96C2DFAF4&conditionGroupCode=1&gclsrc=aw.ds&&adid=2222222222711213159055_101222135_180351031175_21406247033&wl0=&wl1=g&wl2=c&wl3=754317817418&wl4=pla-2421661019269&wl5=9009968&wl6=&wl7=&wl8=&wl9=pla&wl10=754671003&wl11=online&wl12=11213159055_101222135&veh=sem&gad_source=1&gad_campaignid=21406247033&gbraid=0AAAAADmfBIqkRMevPdqH6S8r2IbXRYvro&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIe4jTQgKfXb8QBfAxBhwdAbRfg5jLXrVp6n3THCZxDfNIFX91OoH3hoCvV8QAvD_BwE"
+        "name": "Microsoft Store",
+        "url": "https://www.microsoft.com/xbox-series-s"
       }
     ]
   },
   {
-    "id": "xbox_series_x_galaxy",
-    "name": "Xbox Series X - Galaxy Black",
+    "id": "xbox_series_x_halo",
+    "name": "Xbox Series X - Halo Infinite Limited Edition",
     "brand": "Series X|S",
-    "price": "$749",
+    "price": "$549",
     "inStock": false,
     "retailers": [
       {
-        "name": "GameStop",
-        "url": "https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-x-disc-drive-console-2tb---galaxy-black/415664.html?utm_medium=pmax&utm_source=google&utm_campaign=%24PMAX_%24NB_MNFR_Preowned_Hardware_Microsoft&utm_id=20628582149&gclsrc=aw.ds&gad_source=1&gad_campaignid=20628588614&gbraid=0AAAAAD5TdcRjKNun5_G2zaGq6elf9QYBV&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIfQYI12-kqGhpbgdZs7G6EbClPqsViJlLUL-EclGSaLNTchWtZViZxoCyEMQAvD_BwE"
+        "name": "Walmart",
+        "url": "https://www.walmart.com/xbox-series-x-halo"
       }
     ]
   },
@@ -408,41 +406,40 @@
     "brand": "Series X|S",
     "price": "$69",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
         "name": "Microsoft Store",
-        "url": "https://www.xbox.com/en-US/games/store/starfield/9NCJSXWZTP88/0010"
+        "url": "https://www.microsoft.com/store/starfield"
       },
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/starfield-standard-edition-xbox-series-x/6548060.p?skuId=6548060&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIQZkc_jHtSLT3-4lKp-SI6TTEaupmS-tcm0M_Lq8DPxm2nQuTIjw2hoCBv4QAvD_BwE"
+        "url": "https://www.bestbuy.com/site/starfield"
       }
     ]
   },
   {
     "id": "forza_motorsport",
     "name": "Forza Motorsport",
-    "brand": "Xbox Series X|S",
+    "brand": "Xbox One",
     "price": "$69",
     "inStock": true,
     "retailers": [
       {
         "name": "Walmart",
-        "url": "https://www.walmart.com/ip/Forza-Motorsport-Standard-Edition-Xbox-Series-X/16377363493?wmlspartner=wlpa&selectedSellerId=101561376&selectedOfferId=B898E56E7E1F3C62AE687AAFE423CE08&conditionGroupCode=1&adid=2222222222716377363493_101561376_184938035267_21699094512&wl0=&wl1=g&wl2=c&wl3=761723175270&wl4=pla-2427975370206&wl5=9009968&wl6=&wl7=&wl8=&wl9=pla&wl10=5333687625&wl11=online&wl12=16377363493_101561376&veh=sem&gad_source=1&gad_campaignid=21699094512&gbraid=0AAAAADmfBIoKc7_ztUdTwujpzgDzb4YPD&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIYsc8VxV7YJMEGxmQCeLpjlN57DCfd_8mo5SIoYtPPE6_oF543CeWxoCu5kQAvD_BwE"
+        "url": "https://www.walmart.com/forza-motorsport"
       }
     ]
   },
   {
     "id": "minecraft_xbox",
     "name": "Minecraft",
-    "brand": "Series X|S",
-    "price": "$19",
+    "brand": "Xbox One",
+    "price": "$29",
     "inStock": true,
     "retailers": [
       {
         "name": "Microsoft Store",
-        "url": "https://www.xbox.com/en-US/games/store/minecraft/9MVXMVT8ZKWC"
+        "url": "https://www.microsoft.com/minecraft-xbox"
       }
     ]
   },
@@ -455,7 +452,7 @@
     "retailers": [
       {
         "name": "Microsoft Store",
-        "url": "https://www.xbox.com/en-US/games/store/halo-infinite-campaign/9np1p1wfs0lb"
+        "url": "https://www.microsoft.com/halo-infinite"
       }
     ]
   },
@@ -506,8 +503,8 @@
     "inStock": true,
     "retailers": [
       {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/god-of-war-playstation-hits-standard-edition-playstation-4/5358600.p?skuId=5358600&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIScwo-Nn1YhYGu__emlrZPxlDpyejbMocsdusFp5-qTZ5uH68A9UWBoCOHwQAvD_BwE"
+        "name": "PlayStation Store",
+        "url": "https://store.playstation.com/god-of-war-2018"
       }
     ]
   }
