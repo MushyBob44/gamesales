@@ -37,11 +37,11 @@
     "retailers": [
       {
         "name": "Nintendo Store",
-        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/"
+        "url": "https://store.nintendo.com/switch2-pro-controller"
       },
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/nintendo-switch-2-pro-controller-black/6625904.p?skuId=6625904"
+        "url": "https://www.bestbuy.com/site/nintendo-switch-2-pro-controller"
       }
     ]
   },
@@ -54,40 +54,28 @@
     "retailers": [
       {
         "name": "My Nintendo Store",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQBRoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIePKV0mozmlUn1ZwUqHq-rGsI4ZIQ0H2pRGzHwvVbula3RnlUHh7fBoCr8YQAvD_BwE&cce=1&sig=AOD64_1Qpv0F7mEe98Kp4plWXNwUbwfsxQ&ctype=5&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKEBE&adurl="
-      },
-      {
-        "name": "GameStop",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQBxoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIaIbSfxvBE903MwBOvWfSJqCmcWhUa6uRyDbHxQOkNS_TF6G3NtGcRoC6roQAvD_BwE&cid=CAASJeRoKjOa5ukTtv1c8HchpXGDEzTMU6BQ3-1ACg7K5rOnhYF96fE&cce=1&sig=AOD64_1WisXpTiQqWq5oBrJd9v0w_3M4Rw&ctype=46&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKEEg&adurl="
+        "url": "https://store.nintendo.com/mario-kart-world"
       },
       {
         "name": "Best Buy",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQCBoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIRGeM11Pl9Z5VU9iOtZqwK_JEwiH7npD18dI0CczZY0rSzOaporl9hoCsx8QAvD_BwE&cid=CAASJeRoKjOaMsc-CwJEwWODINGbrAE6nIfW7oKWf4DtN3DXL9kNImU&cce=1&sig=AOD64_3lRqSb78huV750dnt4x7ai0W6ohw&ctype=46&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKECE&adurl="
-      },
-      {
-        "name": "Walmart",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQBhoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIUfgxMz8Y5BXyoQVV0nTCou8SB3H3nvpwL_-8U9xgPzIy0KdxnCtGRoCTuAQAvD_BwE&cid=CAASJeRoKjOadb0CVDYgclF0DjZ8JBnsbzj2O0iE4PJuOhi_MUYzWkQ&cce=1&sig=AOD64_22oR6PHKE5RQW7AAuvZGVytI4bUQ&ctype=46&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKEDQ&adurl="
-      },
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/mario-kart-world-nintendo-switch-2/-/A-94694198"
+        "url": "https://www.bestbuy.com/site/mario-kart-world-switch2"
       }
     ]
   },
   {
     "id": "cyberpunk2077_s2",
-    "name": "Cyberpunk 2077 - Ultimate Edition",
+    "name": "Cyberpunk 2077",
     "brand": "Switch 2",
     "price": "$59",
     "inStock": true,
     "retailers": [
       {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/cyberpunk-2077-ultimate-edition-nintendo-switch-2/6630958.p?skuId=6630958&extStoreId=1767&utm_source=feed&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIcjEeNywxRJm3s3SZv9re4vXkzl2WZuLKSJ4xwOxz-P9eYl-tF4ULxoCPWYQAvD_BwE"
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/games/cyberpunk-2077-switch2"
       },
       {
-        "name": "Target",
-        "url": "https://www.target.com/p/cyberpunk-2077-ultimate-edition-nintendo-switch-2/-/A-94719255?sid=2090S&TCID=PDS-336247729&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247729&gbraid=0AAAAAD-5dfaerIWDDCnGcGOn0S8mjUr6o&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIYJDy3fW1jrLQY74GNBLQ3tZd4K96oOzJOAHk4AMc6WSz0qQuGeImhoCxG8QAvD_BwE"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/cyberpunk-2077-switch2"
       }
     ]
   },
@@ -95,12 +83,12 @@
     "id": "switch2_welcome_tour",
     "name": "Nintendo Switch 2 Welcome Tour",
     "brand": "Switch 2",
-    "price": "$9.99",
+    "price": "$0",
     "inStock": true,
     "retailers": [
       {
-        "name": "My Nintendo Store",
-        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-welcome-tour-switch-2/"
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/switch2-welcome-tour"
       }
     ]
   },
@@ -112,16 +100,8 @@
     "inStock": false,
     "retailers": [
       {
-        "name": "My Nintendo Store",
-        "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/"
-      },
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/donkey-kong-bananza-nintendo-switch-2/-/A-94694203?sid=&TCID=PDS-208745809&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=208745809&gbraid=0AAAAAD-5dfZWzUfzUsK10DfUkrQIXJFi7&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIfpaO_2YNCaezmUi2VIcJROm62-UGqXhXtQifNaNHUOCnoxs8T7nvhoCRi0QAvD_BwE"
-      },
-      {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/donkey-kong-bananza-nintendo-switch-2/6414108.p?skuId=6414108&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIfvYRy_Qsv92jEkGY-JmBaHHPUk4XeXTdhoOTB8YxYwZkSBeES-tJRoCLCoQAvD_BwE"
+        "name": "Walmart",
+        "url": "https://www.walmart.com/donkey-kong-bananza"
       }
     ]
   },
@@ -134,7 +114,7 @@
     "retailers": [
       {
         "name": "Target",
-        "url": "https://www.target.com/p/nintendo-switch-oled-model-with-white-joy-con/-/A-83887639?sid=&TCID=PDS-228080329&gclsrc=aw.ds&gad_source=1&gad_campaignid=228080329&gbraid=0AAAAAD-5dfYTyZnaAhlF1XWB3CH4jKOCJ&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIWQovC7O79ris1DVwm1QlU3osGjYqXQAut2XatzzsuPZB2XL39xLJxoCrxMQAvD_BwE"
+        "url": "https://www.target.com/nintendo-switch-oled"
       }
     ]
   },
@@ -147,25 +127,25 @@
     "retailers": [
       {
         "name": "Target",
-        "url": "https://www.target.com/p/nintendo-switch-lite-turquoise/-/A-77419248?TCID=PDS-21617853055&gclsrc=aw.ds&gad_source=1&gad_campaignid=21617853055&gbraid=0AAAAAD-5dfbSvbF9BTvr8LEUs_U-SGOQO&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIZqJ-5U6-iDK5wvVUdZbfFp5-9LTtXmIRL3ZMMNxaOBxtq9hiLBajxoCN4IQAvD_BwE"
+        "url": "https://www.target.com/nintendo-switch-lite"
       }
     ]
   },
   {
     "id": "zelda_totk",
-    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "name": "Zelda: Tears of the Kingdom",
     "brand": "Switch",
     "price": "$39",
     "inStock": true,
     "onSale": true,
     "retailers": [
       {
-        "name": "Target",
-        "url": "https://www.target.com/p/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch/-/A-88492050?TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIWOD-0RiLIyPH86SWWsA6FHu5yZchvkZ5NEl4n2Uet6w6RolvDs7JhoCaO0QAvD_BwE"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/zelda-tears"
       },
       {
-        "name": "My Nintendo Store",
-        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/"
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/zelda-totk"
       }
     ]
   },
