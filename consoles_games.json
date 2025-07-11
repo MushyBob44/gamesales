@@ -1,243 +1,493 @@
 [
-    {
-        "id": "ns2",
-        "name": "Nintendo Switch 2",
-        "brand": "Switch 2",
-        "price": "$500",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "My Nintendo Store",
-                "url": "https://www.nintendo.com/us/retail-offers/#switch2"
-            },
-            {
-                "name": "GameStop",
-                "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch/consoles/products/nintendo-switch-2/424543.html"
-            },
-            {
-                "name": "Best Buy",
-                "url": "https://www.bestbuy.com/site/switch-2-system-nintendo-switch-2/6614313.p?skuId=6614313"
-            },
-            {
-                "name": "Walmart",
-                "url": "https://www.walmart.com/ip/Nintendo-Switch-2-System/15949610846?classType=REGULAR&athbdg=L1103&from=/search"
-            },
-            {
-                "name": "Target",
-                "url": "https://www.target.com/p/nintendo-switch-2-console/-/A-94693225#lnk=sametab"
-            }
-        ]
-    },
-    {
-        "id": "ps5",
-        "name": "PlayStation 5",
-        "brand": "PS5",
-        "price": "$500",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Best Buy",
-                "url": "https://www.bestbuy.com/site/playstation-5"
-            },
-            {
-                "name": "Amazon",
-                "url": "https://www.amazon.com/playstation-5"
-            }
-        ]
-    },
-    {
-        "id": "xbox_series_x",
-        "name": "Xbox Series X",
-        "brand": "Series X|S",
-        "price": "$449",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Walmart",
-                "url": "https://www.walmart.com/ip/xbox-series-x"
-            },
-            {
-                "name": "Target",
-                "url": "https://www.target.com/p/xbox-series-x"
-            }
-        ]
-    },
-    {
-        "id": "spiderman2",
-        "name": "Spider-Man 2 (PS5)",
-        "brand": "PS5",
-        "price": "$69",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Amazon",
-                "url": "https://www.amazon.com/spiderman-2-ps5"
-            },
-            {
-                "name": "GameStop",
-                "url": "https://www.gamestop.com/spiderman-2"
-            }
-        ]
-    },
-    {
-        "id": "zelda_totk",
-        "name": "Zelda: Tears of the Kingdom",
-        "brand": "Switch",
-        "price": "$39",
-        "inStock": true,
-        "onSale": true,
-        "retailers": [
-            {
-                "name": "Amazon",
-                "url": "https://www.amazon.com/zelda-tears"
-            },
-            {
-                "name": "Nintendo Store",
-                "url": "https://store.nintendo.com/zelda-totk"
-            }
-        ]
-    },
-    {
-        "id": "mario_wonder",
-        "name": "Super Mario Bros. Wonder",
-        "brand": "Switch",
-        "price": "$59",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Nintendo Store",
-                "url": "https://store.nintendo.com/smb-wonder"
-            }
-        ]
-    },
-    {
-        "id": "god_of_war_ragnarok",
-        "name": "God of War: Ragnarok",
-        "brand": "PS5",
-        "price": "$69",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Amazon",
-                "url": "https://www.amazon.com/god-of-war-ragnarok"
-            }
-        ]
-    },
-    {
-        "id": "xbox_series_s",
-        "name": "Xbox Series S",
-        "brand": "Series X|S",
-        "price": "$299",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Microsoft Store",
-                "url": "https://www.microsoft.com/xbox-series-s"
-            }
-        ]
-    },
-    {
-        "id": "mario_kart_8",
-        "name": "Mario Kart 8 Deluxe",
-        "brand": "Switch",
-        "price": "$59",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Best Buy",
-                "url": "https://www.bestbuy.com/mario-kart-8"
-            }
-        ]
-    },
-    {
-        "id": "last_of_us_pt1",
-        "name": "The Last of Us Part I",
-        "brand": "PS5",
-        "price": "$69",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "PlayStation Store",
-                "url": "https://store.playstation.com/last-of-us-pt1"
-            }
-        ]
-    },
-    {
-        "id": "halo_infinite",
-        "name": "Halo Infinite",
-        "brand": "PC",
-        "price": "$59",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Microsoft Store",
-                "url": "https://www.microsoft.com/halo-infinite"
-            }
-        ]
-    },
-    {
-        "id": "metroid_dread",
-        "name": "Metroid Dread",
-        "brand": "Switch",
-        "price": "$59",
-        "inStock": false,
-        "retailers": [
-            {
-                "name": "GameStop",
-                "url": "https://www.gamestop.com/metroid-dread"
-            }
-        ]
-    },
-    {
-        "id": "horizon_fw",
-        "name": "Horizon Forbidden West",
-        "brand": "PS5",
-        "price": "$69",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Amazon",
-                "url": "https://www.amazon.com/horizon-forbidden-west"
-            }
-        ]
-    },
-    {
-        "id": "forza_motorsport",
-        "name": "Forza Motorsport",
-        "brand": "Xbox One",
-        "price": "$69",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Walmart",
-                "url": "https://www.walmart.com/forza-motorsport"
-            }
-        ]
-    },
-    {
-        "id": "switch_oled",
-        "name": "Nintendo Switch OLED",
-        "brand": "Switch",
-        "price": "$349",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Target",
-                "url": "https://www.target.com/nintendo-switch-oled"
-            }
-        ]
-    },
-    {
-        "id": "ps5_slim",
-        "name": "PlayStation 5 Slim",
-        "brand": "PS5",
-        "price": "$499",
-        "inStock": true,
-        "retailers": [
-            {
-                "name": "Sony Store",
-                "url": "https://www.playstation.com/ps5-slim"
-            }
-        ]
-    }
+  {
+    "id": "ns2",
+    "name": "Nintendo Switch 2",
+    "brand": "Switch 2",
+    "price": "$500",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "My Nintendo Store",
+        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/"
+      },
+      {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch/consoles/products/nintendo-switch-2/20019700.html"
+      },
+      {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/site/video-games/nintendo/pcmcat1742407305710.c?id=pcmcat1742407305710"
+      },
+      {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/ip/Nintendo-Switch-2-System/15949610846"
+      },
+      {
+        "name": "Target",
+        "url": "https://www.target.com/p/nintendo-switch-2-console/-/A-94693225"
+      }
+    ]
+  },
+  {
+    "id": "ns2_pro",
+    "name": "Nintendo Switch 2 Pro Controller",
+    "brand": "Switch 2",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/switch2-pro-controller"
+      },
+      {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/site/nintendo-switch-2-pro-controller"
+      }
+    ]
+  },
+  {
+    "id": "mario_kart_world",
+    "name": "Mario Kart World",
+    "brand": "Switch 2",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "My Nintendo Store",
+        "url": "https://store.nintendo.com/mario-kart-world"
+      },
+      {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/site/mario-kart-world-switch2"
+      }
+    ]
+  },
+  {
+    "id": "cyberpunk2077_s2",
+    "name": "Cyberpunk 2077",
+    "brand": "Switch 2",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/games/cyberpunk-2077-switch2"
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/cyberpunk-2077-switch2"
+      }
+    ]
+  },
+  {
+    "id": "switch2_welcome_tour",
+    "name": "Nintendo Switch 2 Welcome Tour",
+    "brand": "Switch 2",
+    "price": "$0",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/switch2-welcome-tour"
+      }
+    ]
+  },
+  {
+    "id": "donkey_kong_bananza",
+    "name": "Donkey Kong Bananza",
+    "brand": "Switch 2",
+    "price": "$59",
+    "inStock": false,
+    "retailers": [
+      {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/donkey-kong-bananza"
+      }
+    ]
+  },
+  {
+    "id": "switch_oled",
+    "name": "Nintendo Switch OLED",
+    "brand": "Switch",
+    "price": "$349",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Target",
+        "url": "https://www.target.com/nintendo-switch-oled"
+      }
+    ]
+  },
+  {
+    "id": "switch_lite",
+    "name": "Nintendo Switch Lite",
+    "brand": "Switch",
+    "price": "$199",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Target",
+        "url": "https://www.target.com/nintendo-switch-lite"
+      }
+    ]
+  },
+  {
+    "id": "zelda_totk",
+    "name": "Zelda: Tears of the Kingdom",
+    "brand": "Switch",
+    "price": "$39",
+    "inStock": true,
+    "onSale": true,
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/zelda-tears"
+      },
+      {
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/zelda-totk"
+      }
+    ]
+  },
+  {
+    "id": "mario_wonder",
+    "name": "Super Mario Bros. Wonder",
+    "brand": "Switch",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/smb-wonder"
+      }
+    ]
+  },
+  {
+    "id": "mario_kart_8",
+    "name": "Mario Kart 8 Deluxe",
+    "brand": "Switch",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/mario-kart-8"
+      }
+    ]
+  },
+  {
+    "id": "smash_bros_ultimate",
+    "name": "Super Smash Bros. Ultimate",
+    "brand": "Switch",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/smash-bros-ultimate"
+      }
+    ]
+  },
+  {
+    "id": "splatoon3",
+    "name": "Splatoon 3",
+    "brand": "Switch",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/splatoon-3"
+      }
+    ]
+  },
+  {
+    "id": "metroid_dread",
+    "name": "Metroid Dread",
+    "brand": "Switch",
+    "price": "$59",
+    "inStock": false,
+    "retailers": [
+      {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/metroid-dread"
+      }
+    ]
+  },
+  {
+    "id": "ps5",
+    "name": "PlayStation 5",
+    "brand": "PS5",
+    "price": "$500",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/site/playstation/playstation-5/pcmcat1572034351415.c?id=pcmcat1572034351415"
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/playstation-5"
+      }
+    ]
+  },
+  {
+    "id": "ps5_slim",
+    "name": "PlayStation 5 Slim",
+    "brand": "PS5",
+    "price": "$499",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Sony Store",
+        "url": "https://direct.playstation.com/en-us/hardware/ps5"
+      }
+    ]
+  },
+  {
+    "id": "spiderman2",
+    "name": "Spider-Man 2 (PS5)",
+    "brand": "PS5",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/spiderman-2-ps5"
+      },
+      {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/games/spider-man-2/"
+      }
+    ]
+  },
+  {
+    "id": "god_of_war_ragnarok",
+    "name": "God of War: Ragnarok",
+    "brand": "PS5",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/god-of-war-ragnarok"
+      }
+    ]
+  },
+  {
+    "id": "horizon_fw",
+    "name": "Horizon Forbidden West",
+    "brand": "PS5",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/horizon-forbidden-west"
+      }
+    ]
+  },
+  {
+    "id": "last_of_us_pt1",
+    "name": "The Last of Us Part I",
+    "brand": "PS5",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/concept/10003939"
+      }
+    ]
+  },
+  {
+    "id": "gta5_ps4",
+    "name": "Grand Theft Auto V",
+    "brand": "PS4",
+    "price": "$29",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "PlayStation Store",
+        "url": "https://store.playstation.com/gta-v-ps4"
+      }
+    ]
+  },
+  {
+    "id": "bloodborne",
+    "name": "Bloodborne",
+    "brand": "PS4",
+    "price": "$19",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com/bloodborne-ps4"
+      }
+    ]
+  },
+  {
+    "id": "fifa24_ps4",
+    "name": "EA Sports FC 24",
+    "brand": "PS4",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/ps4-fc-24"
+      }
+    ]
+  },
+  {
+    "id": "xbox_series_x",
+    "name": "Xbox Series X",
+    "brand": "Series X|S",
+    "price": "$449",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/ip/xbox-series-x"
+      },
+      {
+        "name": "Target",
+        "url": "https://www.target.com/p/xbox-series-x"
+      }
+    ]
+  },
+  {
+    "id": "xbox_series_s",
+    "name": "Xbox Series S",
+    "brand": "Series X|S",
+    "price": "$299",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Microsoft Store",
+        "url": "https://www.microsoft.com/xbox-series-s"
+      }
+    ]
+  },
+  {
+    "id": "xbox_series_x_halo",
+    "name": "Xbox Series X - Halo Infinite Limited Edition",
+    "brand": "Series X|S",
+    "price": "$549",
+    "inStock": false,
+    "retailers": [
+      {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/xbox-series-x-halo"
+      }
+    ]
+  },
+  {
+    "id": "starfield",
+    "name": "Starfield",
+    "brand": "Series X|S",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Microsoft Store",
+        "url": "https://www.microsoft.com/store/starfield"
+      },
+      {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/site/starfield"
+      }
+    ]
+  },
+  {
+    "id": "forza_motorsport",
+    "name": "Forza Motorsport",
+    "brand": "Xbox One",
+    "price": "$69",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/forza-motorsport"
+      }
+    ]
+  },
+  {
+    "id": "minecraft_xbox",
+    "name": "Minecraft",
+    "brand": "Xbox One",
+    "price": "$29",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Microsoft Store",
+        "url": "https://www.microsoft.com/minecraft-xbox"
+      }
+    ]
+  },
+  {
+    "id": "halo_infinite",
+    "name": "Halo Infinite",
+    "brand": "PC",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Microsoft Store",
+        "url": "https://www.microsoft.com/halo-infinite"
+      }
+    ]
+  },
+  {
+    "id": "elden_ring_pc",
+    "name": "Elden Ring (PC)",
+    "brand": "PC",
+    "price": "$59",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/"
+      }
+    ]
+  },
+  {
+    "id": "steam_deck",
+    "name": "Steam Deck (512GB)",
+    "brand": "PC",
+    "price": "$649",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/steamdeck"
+      }
+    ]
+  },
+  {
+    "id": "fortnite_pc",
+    "name": "Fortnite",
+    "brand": "PC",
+    "price": "Free",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "Epic Games Store",
+        "url": "https://www.epicgames.com/store/en-US/p/fortnite"
+      }
+    ]
+  },
+  {
+    "id": "god_of_war_2018",
+    "name": "God of War (2018)",
+    "brand": "PS4",
+    "price": "$19",
+    "inStock": true,
+    "retailers": [
+      {
+        "name": "PlayStation Store",
+        "url": "https://store.playstation.com/god-of-war-2018"
+      }
+    ]
+  }
 ]
