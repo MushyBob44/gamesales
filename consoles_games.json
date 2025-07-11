@@ -268,7 +268,7 @@
       },
       {
         "name": "Amazon",
-        "url": "https://www.amazon.com/PlayStation®5-console-slim-PlayStation-5/dp/B0CL61F39H/ref=asc_df_B0CL61F39H?mcid=c71a2eb0ebfa3eeaabe1ec813ad53e49&hvocijid=15177431908176182704-B0CL61F39H-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15177431908176182704&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009968&hvtargid=pla-2281435178858&psc=1"
+        "url": "https://www.amazon.com/PlayStation\u00ae5-console-slim-PlayStation-5/dp/B0CL61F39H/ref=asc_df_B0CL61F39H?mcid=c71a2eb0ebfa3eeaabe1ec813ad53e49&hvocijid=15177431908176182704-B0CL61F39H-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15177431908176182704&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009968&hvtargid=pla-2281435178858&psc=1"
       }
     ]
   },
@@ -445,26 +445,9 @@
     ]
   },
   {
-    "id": "minecraft_xboxone",
-    "name": "Minecraft",
-    "brand": "Xbox One",
-    "price": "$19",
-    "inStock": true,
-    "retailers": [
-      {
-        "name": "Microsoft Store",
-        "url": "https://www.xbox.com/en-US/games/store/minecraft/9MVXMVT8ZKWC"
-      },
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/minecraft-xbox-series-x-s-xbox-one-digital/-/A-87298224?sid=&TCID=PDS-209748769&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=209748769&gbraid=0AAAAAD-5dfY4VwBGMLNYNh496DzxC8s_U&gclid=CjwKCAjw7MLDBhAuEiwAIeXGITjv4Yr4bOgmTAEXpn8Zh58n1DHZXYV9ozSmCI1ZakoYyDnAFmG6VBoC1n0QAvD_BwE"
-      }
-    ]
-  },
-  {
     "id": "minecraft_xbox",
     "name": "Minecraft",
-    "brand": "Series X|S",
+    "brand": "Xbox One",
     "price": "$19",
     "inStock": true,
     "retailers": [
