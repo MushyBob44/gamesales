@@ -4,7 +4,7 @@
     "name": "Nintendo Switch 2",
     "brand": "Switch 2",
     "price": "$500",
-    "inStock": false,
+    "inStock": true,
     "retailers": [
       {
         "name": "My Nintendo Store",
@@ -49,24 +49,24 @@
     "id": "mario_kart_world",
     "name": "Mario Kart World",
     "brand": "Switch 2",
-    "price": "$79",
+    "price": "$80",
     "inStock": true,
     "retailers": [
       {
         "name": "My Nintendo Store",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQBRoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIePKV0mozmlUn1ZwUqHq-rGsI4ZIQ0H2pRGzHwvVbula3RnlUHh7fBoCr8YQAvD_BwE&cce=1&sig=AOD64_1Qpv0F7mEe98Kp4plWXNwUbwfsxQ&ctype=5&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKEBE&adurl="
+        "url": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOorMnUG6gRjjSoZ6Gci1awkoruAYme5QPLkzh9mjOGCJ9je4zWmZ"
       },
       {
         "name": "GameStop",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQBxoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIaIbSfxvBE903MwBOvWfSJqCmcWhUa6uRyDbHxQOkNS_TF6G3NtGcRoC6roQAvD_BwE&cid=CAASJeRoKjOa5ukTtv1c8HchpXGDEzTMU6BQ3-1ACg7K5rOnhYF96fE&cce=1&sig=AOD64_1WisXpTiQqWq5oBrJd9v0w_3M4Rw&ctype=46&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKEEg&adurl="
+        "url": "https://www.gamestop.com/video-games/nintendo-switch-2/products/mario-kart-world---nintendo-switch-2/20021637.html"
       },
       {
         "name": "Best Buy",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQCBoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIRGeM11Pl9Z5VU9iOtZqwK_JEwiH7npD18dI0CczZY0rSzOaporl9hoCsx8QAvD_BwE&cid=CAASJeRoKjOaMsc-CwJEwWODINGbrAE6nIfW7oKWf4DtN3DXL9kNImU&cce=1&sig=AOD64_3lRqSb78huV750dnt4x7ai0W6ohw&ctype=46&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKECE&adurl="
+        "url": "https://www.bestbuy.com/site/mario-kart-world-nintendo-switch-2/6414092.p?skuId=6414092"
       },
       {
         "name": "Walmart",
-        "url": "https://www.google.com/aclk?sa=L&ai=DChsSEwigns-bsLWOAxUoTkcBHajqJG0YACICCAEQBhoCcXU&co=1&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIUfgxMz8Y5BXyoQVV0nTCou8SB3H3nvpwL_-8U9xgPzIy0KdxnCtGRoCTuAQAvD_BwE&cid=CAASJeRoKjOadb0CVDYgclF0DjZ8JBnsbzj2O0iE4PJuOhi_MUYzWkQ&cce=1&sig=AOD64_22oR6PHKE5RQW7AAuvZGVytI4bUQ&ctype=46&q=&ved=2ahUKEwiw2cibsLWOAxVEGlkFHXufMIAQ9aACKAB6BAgKEDQ&adurl="
+        "url": "https://www.walmart.com/ip/Mario-Kart-World-U-S-Version/15940407280"
       },
       {
         "name": "Target",
@@ -76,9 +76,9 @@
   },
   {
     "id": "cyberpunk2077_s2",
-    "name": "Cyberpunk 2077 - Ultimate Edition",
+    "name": "Cyberpunk 2077",
     "brand": "Switch 2",
-    "price": "$69",
+    "price": "$70",
     "inStock": true,
     "retailers": [
       {
@@ -95,11 +95,11 @@
     "id": "switch2_welcome_tour",
     "name": "Nintendo Switch 2 Welcome Tour",
     "brand": "Switch 2",
-    "price": "$9",
+    "price": "$10",
     "inStock": true,
     "retailers": [
       {
-        "name": "My Nintendo Store",
+        "name": "Nintendo Store",
         "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-welcome-tour-switch-2/"
       }
     ]
@@ -108,20 +108,12 @@
     "id": "donkey_kong_bananza",
     "name": "Donkey Kong Bananza",
     "brand": "Switch 2",
-    "price": "$69",
+    "price": "$70",
     "inStock": false,
     "retailers": [
       {
         "name": "My Nintendo Store",
         "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/"
-      },
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/donkey-kong-bananza-nintendo-switch-2/-/A-94694203?sid=&TCID=PDS-208745809&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=208745809&gbraid=0AAAAAD-5dfZWzUfzUsK10DfUkrQIXJFi7&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIfpaO_2YNCaezmUi2VIcJROm62-UGqXhXtQifNaNHUOCnoxs8T7nvhoCRi0QAvD_BwE"
-      },
-      {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/donkey-kong-bananza-nintendo-switch-2/6414108.p?skuId=6414108&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIfvYRy_Qsv92jEkGY-JmBaHHPUk4XeXTdhoOTB8YxYwZkSBeES-tJRoCLCoQAvD_BwE"
       }
     ]
   },
@@ -129,7 +121,7 @@
     "id": "switch_oled",
     "name": "Nintendo Switch OLED",
     "brand": "Switch",
-    "price": "$349",
+    "price": "$350",
     "inStock": true,
     "retailers": [
       {
@@ -142,7 +134,7 @@
     "id": "switch_lite",
     "name": "Nintendo Switch Lite",
     "brand": "Switch",
-    "price": "$199",
+    "price": "$200",
     "inStock": true,
     "retailers": [
       {
@@ -155,16 +147,15 @@
     "id": "zelda_totk",
     "name": "The Legend of Zelda: Tears of the Kingdom",
     "brand": "Switch",
-    "price": "$69",
+    "price": "$70",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
         "name": "Target",
         "url": "https://www.target.com/p/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch/-/A-88492050?TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIWOD-0RiLIyPH86SWWsA6FHu5yZchvkZ5NEl4n2Uet6w6RolvDs7JhoCaO0QAvD_BwE"
       },
       {
-        "name": "My Nintendo Store",
+        "name": "Nintendo Store",
         "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/"
       }
     ]
@@ -173,7 +164,7 @@
     "id": "mario_wonder",
     "name": "Super Mario Bros. Wonder",
     "brand": "Switch",
-    "price": "$59",
+    "price": "$60",
     "inStock": true,
     "retailers": [
       {
@@ -203,10 +194,6 @@
     "price": "$59",
     "inStock": true,
     "retailers": [
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/super-smash-bros-ultimate-nintendo-switch/-/A-53494594?sid=&TCID=PDS-209748769&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=209748769&gbraid=0AAAAAD-5dfY4VwBGMLNYNh496DzxC8s_U&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIeYgNLsYfWGA0nGgYQmjTchlXUwKzO3NGzcWv3Waic_5eQLpcAPVShoCZU0QAvD_BwE"
-      },
       {
         "name": "Walmart",
         "url": "https://www.walmart.com/ip/Super-Smash-Bros-Ultimate-Nintendo-Switch/467273231?wmlspartner=wlpa&selectedSellerId=8502&selectedOfferId=D5B8DE43710F365FA6406373E7913BD2&conditionGroupCode=1&adid=22222222227467273231_8502_183988088289_20437639614&wl0=&wl1=g&wl2=c&wl3=759557546536&wl4=pla-2429075787518&wl5=9009968&wl6=&wl7=&wl8=&wl9=pla&wl10=660163930&wl11=online&wl12=467273231_8502&veh=sem&gad_source=1&gad_campaignid=20437639614&gbraid=0AAAAADmfBIpY7kQqMd14_WQIKI7cHWqRs&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIauZoOtyliKQ51io9Z6dAzhFtjJe4UGTYR6oeOP9b4SSRiWxiYGZFxoCO20QAvD_BwE"
@@ -244,16 +231,16 @@
     "id": "ps5",
     "name": "PlayStation 5 Slim",
     "brand": "PS5",
-    "price": "$499",
+    "price": "$500",
     "inStock": true,
     "retailers": [
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/playstation/playstation-5/pcmcat1572034351415.c?id=pcmcat1572034351415"
+        "url": "https://www.bestbuy.com/site/playstation-5-slim-console-playstation-5/6566039.p?skuId=6566039"
       },
       {
         "name": "Amazon",
-        "url": "https://www.amazon.com/PlayStation-5-Console-CFI-1215A01X/dp/B0BCNKKZ91"
+        "url": "https://www.amazon.com/PlayStation®5-console-slim-PlayStation-5/dp/B0CL61F39H/ref=asc_df_B0CL61F39H?mcid=c71a2eb0ebfa3eeaabe1ec813ad53e49&hvocijid=15177431908176182704-B0CL61F39H-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15177431908176182704&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009968&hvtargid=pla-2281435178858&psc=1"
       }
     ]
   },
@@ -261,23 +248,24 @@
     "id": "ps5_slim",
     "name": "PlayStation 5 Pro",
     "brand": "PS5",
-    "price": "$699",
+    "price": "$700",
     "inStock": true,
     "retailers": [
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/playstation-5-pro-console-playstation-5/6601524.p?skuId=6601524&extStoreId=1767&utm_source=feed&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIZiAIt7yrlGT5qfBpIf7DMPjoa5p4dSr6DKjFDT7U_70VXwrYsQHGxoCZ20QAvD_BwE"
+        "url": "https://www.bestbuy.com/site/playstation-5-pro-console-playstation-5/6601524.p?skuId=6601524"
       },
       {
         "name": "Target",
         "url": "https://www.target.com/p/playstation-5-pro-console/-/A-93620188?TCID=PDS-336247729&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247729&gbraid=0AAAAAD-5dfaerIWDDCnGcGOn0S8mjUr6o&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIdoc443Po9FKday03ew6OnIXszA8UPW5GiiSmLYe8e4okFMmCaUW_BoCG7UQAvD_BwE"
+      }
     ]
   },
   {
     "id": "spiderman2",
     "name": "Spider-Man 2 (PS5)",
     "brand": "PS5",
-    "price": "$69",
+    "price": "$70",
     "inStock": true,
     "retailers": [
       {
@@ -294,9 +282,8 @@
     "id": "god_of_war_ragnarok",
     "name": "God of War: Ragnarok",
     "brand": "PS5",
-    "price": "$69",
+    "price": "$70",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
         "name": "Best Buy",
@@ -308,9 +295,9 @@
     "id": "horizon_fw",
     "name": "Horizon Forbidden West",
     "brand": "PS5",
-    "price": "$69",
+    "price": "$70",
     "inStock": true,
-    "onSale": true,
+    "onSale":
     "retailers": [
       {
         "name": "Target",
@@ -352,7 +339,7 @@
     "inStock": true,
     "retailers": [
       {
-        "name": "PlayStation Store",
+        "name": "Playstation Store",
         "url": "https://www.playstation.com/en-us/games/bloodborne/"
       }
     ]
@@ -385,10 +372,6 @@
       {
         "name": "GameStop",
         "url": "https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-x-digital-edition-console-1tb---robot-white/415653.html?utm_medium=pmax&utm_source=google&utm_campaign=%24PMAX_%24NB_MNFR_Preowned_Hardware_Microsoft&utm_id=20628582149&gclsrc=aw.ds&gad_source=1&gad_campaignid=20628588614&gbraid=0AAAAAD5TdcRjKNun5_G2zaGq6elf9QYBV&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIXz75mqIgj7czaSspt3CrqNOkDhbF5X_oeftjcm-NYnpuPFjUSwAxhoCxCsQAvD_BwE"
-      },
-      {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/xbox-series-x-1tb-all-digital-console-disc-free-gaming-xbox-series-x/6595697.p?skuId=6595697"
       }
     ]
   },
@@ -401,16 +384,21 @@
     "onSale": true,
     "retailers": [
       {
-        "name": "Microsoft Store",
-        "url": "https://www.xbox.com/en-US/consoles/xbox-series-s"
-      },
-      {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/xbox-series-s-512gb-all-digital-console-disc-free-gaming-xbox-series-s/6601311.p?skuId=6601311&extStoreId=1767&utm_source=feed&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIVIP_pxmNafyttlHc4X-7vKuuXWzJ6v7CuUb3irSU6A4eUWGfsOCsBoC-aMQAvD_BwE"
-      },
-      {
         "name": "Walmart",
         "url": "https://www.walmart.com/ip/Xbox-Series-S-512GB/11213159055?wmlspartner=wlpa&selectedSellerId=101222135&selectedOfferId=17E89272C86A34F78A032BB96C2DFAF4&conditionGroupCode=1&gclsrc=aw.ds&&adid=2222222222711213159055_101222135_180351031175_21406247033&wl0=&wl1=g&wl2=c&wl3=754317817418&wl4=pla-2421661019269&wl5=9009968&wl6=&wl7=&wl8=&wl9=pla&wl10=754671003&wl11=online&wl12=11213159055_101222135&veh=sem&gad_source=1&gad_campaignid=21406247033&gbraid=0AAAAADmfBIqkRMevPdqH6S8r2IbXRYvro&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIe4jTQgKfXb8QBfAxBhwdAbRfg5jLXrVp6n3THCZxDfNIFX91OoH3hoCvV8QAvD_BwE"
+      }
+    ]
+  },
+  {
+    "id": "xbox_series_x_galaxy",
+    "name": "Xbox Series X - Galaxy Black",
+    "brand": "Series X|S",
+    "price": "$749",
+    "inStock": false,
+    "retailers": [
+      {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/consoles-hardware/xbox-series-x%7Cs/consoles/products/microsoft-xbox-series-x-disc-drive-console-2tb---galaxy-black/415664.html?utm_medium=pmax&utm_source=google&utm_campaign=%24PMAX_%24NB_MNFR_Preowned_Hardware_Microsoft&utm_id=20628582149&gclsrc=aw.ds&gad_source=1&gad_campaignid=20628588614&gbraid=0AAAAAD5TdcRjKNun5_G2zaGq6elf9QYBV&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIfQYI12-kqGhpbgdZs7G6EbClPqsViJlLUL-EclGSaLNTchWtZViZxoCyEMQAvD_BwE"
       }
     ]
   },
@@ -435,7 +423,7 @@
   {
     "id": "forza_motorsport",
     "name": "Forza Motorsport",
-    "brand": "Series X|S",
+    "brand": "Xbox Series X|S",
     "price": "$69",
     "inStock": true,
     "retailers": [
@@ -448,23 +436,6 @@
   {
     "id": "minecraft_xbox",
     "name": "Minecraft",
-    "brand": "Xbox One",
-    "price": "$19",
-    "inStock": true,
-    "retailers": [
-      {
-        "name": "Microsoft Store",
-        "url": "https://www.xbox.com/en-US/games/store/minecraft/9MVXMVT8ZKWC"
-      },
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/minecraft-xbox-series-x-s-xbox-one-digital/-/A-87298224?sid=&TCID=PDS-209748769&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=209748769&gbraid=0AAAAAD-5dfY4VwBGMLNYNh496DzxC8s_U&gclid=CjwKCAjw7MLDBhAuEiwAIeXGITjv4Yr4bOgmTAEXpn8Zh58n1DHZXYV9ozSmCI1ZakoYyDnAFmG6VBoC1n0QAvD_BwE"
-      }
-    ]
-  },
-  {
-    "id": "minecraft_xbox",
-    "name": "Minecraft",
     "brand": "Series X|S",
     "price": "$19",
     "inStock": true,
@@ -472,10 +443,6 @@
       {
         "name": "Microsoft Store",
         "url": "https://www.xbox.com/en-US/games/store/minecraft/9MVXMVT8ZKWC"
-      },
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/minecraft-xbox-series-x-s-xbox-one-digital/-/A-87298224?sid=&TCID=PDS-209748769&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=209748769&gbraid=0AAAAAD-5dfY4VwBGMLNYNh496DzxC8s_U&gclid=CjwKCAjw7MLDBhAuEiwAIeXGITjv4Yr4bOgmTAEXpn8Zh58n1DHZXYV9ozSmCI1ZakoYyDnAFmG6VBoC1n0QAvD_BwE"
       }
     ]
   },
@@ -489,16 +456,12 @@
       {
         "name": "Microsoft Store",
         "url": "https://www.xbox.com/en-US/games/store/halo-infinite-campaign/9np1p1wfs0lb"
-      },
-      {
-        "name": "Steam",
-        "url": "https://store.steampowered.com/app/1240440/Halo_Infinite/"
       }
     ]
   },
   {
     "id": "elden_ring_pc",
-    "name": "Elden Ring",
+    "name": "Elden Ring (PC)",
     "brand": "PC",
     "price": "$59",
     "inStock": true,
@@ -511,7 +474,7 @@
   },
   {
     "id": "steam_deck",
-    "name": "Steam Deck",
+    "name": "Steam Deck (512GB)",
     "brand": "PC",
     "price": "$649",
     "inStock": true,
@@ -545,10 +508,6 @@
       {
         "name": "Best Buy",
         "url": "https://www.bestbuy.com/site/god-of-war-playstation-hits-standard-edition-playstation-4/5358600.p?skuId=5358600&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIScwo-Nn1YhYGu__emlrZPxlDpyejbMocsdusFp5-qTZ5uH68A9UWBoCOHwQAvD_BwE"
-      },
-      {
-        "name": "GameStop",
-        "url": "https://www.gamestop.com/video-games/playstation-4/products/god-of-war---playstation-4/166331.html?utm_medium=pmax&utm_source=google&utm_campaign=%24PMAX_%24NB_MNFR_Preowned_Software_Sony&utm_id=22511097976&gclsrc=aw.ds&gad_source=1&gad_campaignid=22501075092&gbraid=0AAAAAD5TdcTdebDZgNcfAt8YJyaBRjE5Y&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIf_4tlUrsFGuEs27VwyofwV2DbLe8GRMi88om6BcMsVrYHctIHhoLxoCR9AQAvD_BwE"
       }
     ]
   }
