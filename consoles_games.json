@@ -32,16 +32,16 @@
     "id": "ns2_pro",
     "name": "Nintendo Switch 2 Pro Controller",
     "brand": "Switch 2",
-    "price": "$69",
+    "price": "$85",
     "inStock": true,
     "retailers": [
       {
         "name": "Nintendo Store",
-        "url": "https://store.nintendo.com/switch2-pro-controller"
+        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/"
       },
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/nintendo-switch-2-pro-controller"
+        "url": "https://www.bestbuy.com/site/nintendo-switch-2-pro-controller-black/6625904.p?skuId=6625904"
       }
     ]
   },
@@ -49,16 +49,28 @@
     "id": "mario_kart_world",
     "name": "Mario Kart World",
     "brand": "Switch 2",
-    "price": "$69",
+    "price": "$80",
     "inStock": true,
     "retailers": [
       {
         "name": "My Nintendo Store",
-        "url": "https://store.nintendo.com/mario-kart-world"
+        "url": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOorMnUG6gRjjSoZ6Gci1awkoruAYme5QPLkzh9mjOGCJ9je4zWmZ"
+      },
+      {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/video-games/nintendo-switch-2/products/mario-kart-world---nintendo-switch-2/20021637.html"
       },
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/mario-kart-world-switch2"
+        "url": "https://www.bestbuy.com/site/mario-kart-world-nintendo-switch-2/6414092.p?skuId=6414092"
+      },
+      {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/ip/Mario-Kart-World-U-S-Version/15940407280"
+      },
+      {
+        "name": "Target",
+        "url": "https://www.target.com/p/mario-kart-world-nintendo-switch-2/-/A-94694198"
       }
     ]
   },
@@ -66,16 +78,16 @@
     "id": "cyberpunk2077_s2",
     "name": "Cyberpunk 2077",
     "brand": "Switch 2",
-    "price": "$59",
+    "price": "$70",
     "inStock": true,
     "retailers": [
       {
-        "name": "GameStop",
-        "url": "https://www.gamestop.com/games/cyberpunk-2077-switch2"
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/site/cyberpunk-2077-ultimate-edition-nintendo-switch-2/6630958.p?skuId=6630958&extStoreId=1767&utm_source=feed&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIcjEeNywxRJm3s3SZv9re4vXkzl2WZuLKSJ4xwOxz-P9eYl-tF4ULxoCPWYQAvD_BwE"
       },
       {
-        "name": "Amazon",
-        "url": "https://www.amazon.com/cyberpunk-2077-switch2"
+        "name": "Target",
+        "url": "https://www.target.com/p/cyberpunk-2077-ultimate-edition-nintendo-switch-2/-/A-94719255?sid=2090S&TCID=PDS-336247729&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247729&gbraid=0AAAAAD-5dfaerIWDDCnGcGOn0S8mjUr6o&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIYJDy3fW1jrLQY74GNBLQ3tZd4K96oOzJOAHk4AMc6WSz0qQuGeImhoCxG8QAvD_BwE"
       }
     ]
   },
@@ -83,12 +95,12 @@
     "id": "switch2_welcome_tour",
     "name": "Nintendo Switch 2 Welcome Tour",
     "brand": "Switch 2",
-    "price": "$0",
+    "price": "$10",
     "inStock": true,
     "retailers": [
       {
         "name": "Nintendo Store",
-        "url": "https://store.nintendo.com/switch2-welcome-tour"
+        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-welcome-tour-switch-2/"
       }
     ]
   },
@@ -96,12 +108,12 @@
     "id": "donkey_kong_bananza",
     "name": "Donkey Kong Bananza",
     "brand": "Switch 2",
-    "price": "$59",
+    "price": "$70",
     "inStock": false,
     "retailers": [
       {
-        "name": "Walmart",
-        "url": "https://www.walmart.com/donkey-kong-bananza"
+        "name": "My Nintendo Store",
+        "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/"
       }
     ]
   },
