@@ -195,8 +195,8 @@
     "inStock": true,
     "retailers": [
       {
-        "name": "Walmart",
-        "url": "https://www.walmart.com/ip/Super-Smash-Bros-Ultimate-Nintendo-Switch/467273231?wmlspartner=wlpa&selectedSellerId=8502&selectedOfferId=D5B8DE43710F365FA6406373E7913BD2&conditionGroupCode=1&adid=22222222227467273231_8502_183988088289_20437639614&wl0=&wl1=g&wl2=c&wl3=759557546536&wl4=pla-2429075787518&wl5=9009968&wl6=&wl7=&wl8=&wl9=pla&wl10=660163930&wl11=online&wl12=467273231_8502&veh=sem&gad_source=1&gad_campaignid=20437639614&gbraid=0AAAAADmfBIpY7kQqMd14_WQIKI7cHWqRs&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIauZoOtyliKQ51io9Z6dAzhFtjJe4UGTYR6oeOP9b4SSRiWxiYGZFxoCO20QAvD_BwE"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/smash-bros-ultimate"
       }
     ]
   },
@@ -206,11 +206,10 @@
     "brand": "Switch",
     "price": "$59",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
-        "name": "Target",
-        "url": "https://www.target.com/p/splatoon-3-nintendo-switch/-/A-85967100?TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIQ_fdXLoA_qpyBlPZjAuRnsQtXIl3mqRc4WKbxvF4hZHt3S04EC0GRoCTpUQAvD_BwE"
+        "name": "Nintendo Store",
+        "url": "https://store.nintendo.com/splatoon-3"
       }
     ]
   },
@@ -222,42 +221,38 @@
     "inStock": false,
     "retailers": [
       {
-        "name": "My Nintendo Store",
-        "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/?srsltid=AfmBOor1PK2SYjd6oXttb9AKhWkjYHX95Avtd1rPtlMSFw4pgWg-e_YH"
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/metroid-dread"
       }
     ]
   },
   {
     "id": "ps5",
-    "name": "PlayStation 5 Slim",
+    "name": "PlayStation 5",
     "brand": "PS5",
     "price": "$500",
     "inStock": true,
     "retailers": [
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/playstation-5-slim-console-playstation-5/6566039.p?skuId=6566039"
+        "url": "https://www.bestbuy.com/site/playstation/playstation-5/pcmcat1572034351415.c?id=pcmcat1572034351415"
       },
       {
         "name": "Amazon",
-        "url": "https://www.amazon.com/PlayStation®5-console-slim-PlayStation-5/dp/B0CL61F39H/ref=asc_df_B0CL61F39H?mcid=c71a2eb0ebfa3eeaabe1ec813ad53e49&hvocijid=15177431908176182704-B0CL61F39H-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15177431908176182704&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009968&hvtargid=pla-2281435178858&psc=1"
+        "url": "https://www.amazon.com/playstation-5"
       }
     ]
   },
   {
     "id": "ps5_slim",
-    "name": "PlayStation 5 Pro",
+    "name": "PlayStation 5 Slim",
     "brand": "PS5",
-    "price": "$700",
+    "price": "$499",
     "inStock": true,
     "retailers": [
       {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/playstation-5-pro-console-playstation-5/6601524.p?skuId=6601524"
-      },
-      {
-        "name": "Target",
-        "url": "https://www.target.com/p/playstation-5-pro-console/-/A-93620188?TCID=PDS-336247729&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247729&gbraid=0AAAAAD-5dfaerIWDDCnGcGOn0S8mjUr6o&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIdoc443Po9FKday03ew6OnIXszA8UPW5GiiSmLYe8e4okFMmCaUW_BoCG7UQAvD_BwE"
+        "name": "Sony Store",
+        "url": "https://direct.playstation.com/en-us/hardware/ps5"
       }
     ]
   },
@@ -265,16 +260,16 @@
     "id": "spiderman2",
     "name": "Spider-Man 2 (PS5)",
     "brand": "PS5",
-    "price": "$70",
+    "price": "$69",
     "inStock": true,
     "retailers": [
       {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/marvels-spider-man-2-standard-edition-playstation-5/6566050.p?skuId=6566050&extStoreId=1767&utm_source=feed&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIYQhMY0ihi691poKFT5Mw0byvynK-kqdghGs-RU_uhrPLjP67UtnHhoC330QAvD_BwE"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/spiderman-2-ps5"
       },
       {
         "name": "GameStop",
-        "url": "https://www.gamestop.com/video-games/playstation-5/products/marvels-spider-man-2---playstation-5/394826.html?utm_source=google&utm_medium=feeds&utm_campaign=%24PLA_%24LowCP_Video_Game_Software&utm_id=20619203884&gclsrc=aw.ds&gad_source=1&gad_campaignid=20619203884&gbraid=0AAAAAD5TdcT-n-7DcWqXqk3jo0LtEZdfJ&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIc8l2Noy2867DuDhbQs1VkrHUC831W1NMNWDzCN9YyFEdQKXV6IHRRoCdb4QAvD_BwE"
+        "url": "https://www.gamestop.com/games/spider-man-2/"
       }
     ]
   },
@@ -282,12 +277,12 @@
     "id": "god_of_war_ragnarok",
     "name": "God of War: Ragnarok",
     "brand": "PS5",
-    "price": "$70",
+    "price": "$69",
     "inStock": true,
     "retailers": [
       {
-        "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/god-of-war-ragnarok-standard-edition-playstation-5/6523243.p?skuId=6523243&extStoreId=1767&utm_source=feed&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIb_kVt5OqafTZX_dfo_7S_QREggLHSSd6bjusZmjG8q_t65GeHpUTRoCogIQAvD_BwE"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/god-of-war-ragnarok"
       }
     ]
   },
@@ -295,13 +290,12 @@
     "id": "horizon_fw",
     "name": "Horizon Forbidden West",
     "brand": "PS5",
-    "price": "$70",
+    "price": "$69",
     "inStock": true,
-    "onSale":
     "retailers": [
       {
-        "name": "Target",
-        "url": "https://www.target.com/p/horizon-forbidden-west-complete-edition-playstation-5/-/A-90179151?TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGISFJWX0ztIIS4UNqzz8rFxqNzjoF9uTj1A1KWeAJceL1ak-c7ncAMRoC-VMQAvD_BwE"
+        "name": "Amazon",
+        "url": "https://www.amazon.com/horizon-forbidden-west"
       }
     ]
   },
