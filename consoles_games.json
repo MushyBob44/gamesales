@@ -204,12 +204,13 @@
     "id": "splatoon3",
     "name": "Splatoon 3",
     "brand": "Switch",
-    "price": "$59",
+    "price": "$60",
     "inStock": true,
+    "onSale": true,
     "retailers": [
       {
-        "name": "Nintendo Store",
-        "url": "https://store.nintendo.com/splatoon-3"
+        "name": "Target",
+        "url": "https://www.target.com/p/splatoon-3-nintendo-switch/-/A-85967100?TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIQ_fdXLoA_qpyBlPZjAuRnsQtXIl3mqRc4WKbxvF4hZHt3S04EC0GRoCTpUQAvD_BwE"
       }
     ]
   },
@@ -217,42 +218,42 @@
     "id": "metroid_dread",
     "name": "Metroid Dread",
     "brand": "Switch",
-    "price": "$59",
+    "price": "$60",
     "inStock": false,
     "retailers": [
       {
-        "name": "GameStop",
-        "url": "https://www.gamestop.com/metroid-dread"
+        "name": "My Nintendo Store",
+        "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/?srsltid=AfmBOor1PK2SYjd6oXttb9AKhWkjYHX95Avtd1rPtlMSFw4pgWg-e_YH"
       }
     ]
   },
   {
     "id": "ps5",
-    "name": "PlayStation 5",
+    "name": "PlayStation 5 Slim",
     "brand": "PS5",
     "price": "$500",
     "inStock": true,
     "retailers": [
       {
         "name": "Best Buy",
-        "url": "https://www.bestbuy.com/site/playstation/playstation-5/pcmcat1572034351415.c?id=pcmcat1572034351415"
+        "url": "https://www.bestbuy.com/site/playstation-5-slim-console-playstation-5/6566039.p?skuId=6566039&extStoreId=1767&utm_source=feed&ref=212&loc=SaleEvent&gclsrc=aw.ds&gad_source=1&gad_campaignid=13984347981&gbraid=0AAAAAD-ORIgLknlM2GLZCXvkr7tM2mRgI&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIVIatLW6u4zvnjDaygrs49XnO8OLRByw36PeqNp46JNeRfiDW-jK0BoC238QAvD_BwE"
       },
       {
         "name": "Amazon",
-        "url": "https://www.amazon.com/playstation-5"
+        "url": "https://www.amazon.com/PlayStation®5-console-slim-PlayStation-5/dp/B0CL61F39H/ref=asc_df_B0CL61F39H?mcid=c71a2eb0ebfa3eeaabe1ec813ad53e49&hvocijid=15177431908176182704-B0CL61F39H-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15177431908176182704&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009968&hvtargid=pla-2281435178858&psc=1"
       }
     ]
   },
   {
     "id": "ps5_slim",
-    "name": "PlayStation 5 Slim",
+    "name": "PlayStation 5 Pro",
     "brand": "PS5",
-    "price": "$499",
+    "price": "$700",
     "inStock": true,
     "retailers": [
       {
         "name": "Sony Store",
-        "url": "https://direct.playstation.com/en-us/hardware/ps5"
+        "url": "https://direct.playstation.com/en-us/buy-consoles/playstation5-pro-console"
       }
     ]
   },
