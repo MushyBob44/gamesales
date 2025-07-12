@@ -4,7 +4,7 @@
     "name": "Nintendo Switch 2",
     "brand": "Switch 2",
     "price": "$500",
-    "inStock": true,
+    "inStock": false,
     "retailers": [
       {
         "name": "My Nintendo Store",
