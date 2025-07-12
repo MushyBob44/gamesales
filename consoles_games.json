@@ -121,7 +121,7 @@
     "id": "switch_oled",
     "name": "Nintendo Switch OLED",
     "brand": "Switch",
-    "price": "$349",
+    "price": "$350",
     "inStock": true,
     "retailers": [
       {
@@ -134,7 +134,7 @@
     "id": "switch_lite",
     "name": "Nintendo Switch Lite",
     "brand": "Switch",
-    "price": "$199",
+    "price": "$200",
     "inStock": true,
     "retailers": [
       {
@@ -145,19 +145,18 @@
   },
   {
     "id": "zelda_totk",
-    "name": "Zelda: Tears of the Kingdom",
+    "name": "The Legend of Zelda: Tears of the Kingdom",
     "brand": "Switch",
-    "price": "$39",
+    "price": "$69",
     "inStock": true,
-    "onSale": true,
     "retailers": [
       {
-        "name": "Amazon",
-        "url": "https://www.amazon.com/zelda-tears"
+        "name": "Target",
+        "url": "https://www.target.com/p/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch/-/A-88492050?TCID=PDS-336247369&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1248099&gad_source=1&gad_campaignid=336247369&gbraid=0AAAAAD-5dfYTQ6M2KBFwp92fwF0OVVhww&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIWOD-0RiLIyPH86SWWsA6FHu5yZchvkZ5NEl4n2Uet6w6RolvDs7JhoCaO0QAvD_BwE"
       },
       {
         "name": "Nintendo Store",
-        "url": "https://store.nintendo.com/zelda-totk"
+        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/"
       }
     ]
   },
